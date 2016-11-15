@@ -1,4 +1,4 @@
 _**Example **_
-- erl
-- c(test).
-- test:test(1234).
+erl
+c(test).
+test:test(1234).
