@@ -1,4 +1,4 @@
 -module(test).
 -export([test/1]).
 test(X) ->
-(X+1)/3.
+ (X+1)/3.
